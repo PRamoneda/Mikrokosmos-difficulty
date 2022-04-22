@@ -2,7 +2,7 @@
 
 We introduce score difficulty classification as a subtask of music information retrieval (MIR), which may be used in music education technologies, for personalised curriculum generation, and score retrieval. For this purpose, we introduce a novel dataset for the task, Mikrokosmos-difficulty, containing 147 symbolic piano pieces and the corresponding difficulty labels derived by its composer Béla Bartók and the publishers.
 
-# Abaut the dataset
+# About the dataset
 
 
 Béla Bartók’s Mikrokosmos Sz. 107 is a collection of 153 piano pieces published in six volumes between 1926 and 1939 and progressively ranked in terms of difficulty. Individual compositions go from extremely simple and easy beginner exercises to challenging advanced technical musical works.
